@@ -16,14 +16,12 @@
     "util": "^0.12.5",
     "web-vitals": "^0.2.4"
   },
-  
-    "scripts": {
-      "start": "craco start",
-      "build": "craco build",
-      "test": "craco test",
-      "eject": "react-scripts eject"
-    
-},
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
