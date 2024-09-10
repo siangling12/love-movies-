@@ -1,10 +1,18 @@
 # WeLoveMovies Frontend Application
 
-This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
+This is the Front End Application for the WeLoveMovies project.WeLoveMovies Frontend
 
-## Installation
+This React application lets you discover and explore the world of movies! 
 
-1. Fork / clone this repository.
-1. Run `npm install`.
+## Features
 
-Use `npm start` to run the application. If you deploy this application, create a `.env.production` file similar to the `.env.development` file.
+* **Now Showing:**  See what's currently playing in theaters.
+* **Movie Details:** Get in-depth information on any movie, including reviews and showtimes.
+* **Search & Filter:** Find movies by title or filter by what's currently showing.
+* **Theater Listings:** Browse theaters and see what they're showing.Technologies
+React
+React Router
+Axios/Fetch API (for backend communication)
+[Add any CSS frameworks or other notable libraries]
+Contributing
+
